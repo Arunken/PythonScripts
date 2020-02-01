@@ -1,0 +1,33 @@
+<collection shelf = "New Arrivals">
+<movie title = "Erased">
+   <type>Anime, Thriller</type>
+   <format>DVD</format>
+   <year>2016</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Time travel</description>
+</movie>
+<movie title = "Fairy Tail">
+   <type>Anime, Fiction</type>
+   <format>DVD</format>
+   <year>2008</year>
+   <rating>R</rating>
+   <stars>10</stars>
+   <description>A guilt called fairy tail</description>
+</movie>
+   <movie title = "Naruto Shippuden">
+   <type>Anime, Philosophical</type>
+   <format>DVD</format>
+   <episodes>450</episodes>
+   <rating>R</rating>
+   <stars>10</stars>
+   <description>Story of a boy who changed the ninja world</description>
+</movie>
+<movie title = "Naruto">
+   <type>Philosophical, Comedy</type>
+   <format>DVD</format>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Story of Naruto</description>
+</movie>
+</collection>

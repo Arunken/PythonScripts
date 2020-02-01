@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/arcint/miniconda3/envs/python3.7Django/bin/python",
+    "python.unitTest.pyTestArgs": [],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.promptToConfigure": false
+}

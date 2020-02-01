@@ -1,0 +1,5 @@
+,Data1,Data2,Ratios,Results
+0,My name is Kurama,My name is Arun,0.7058823529411764,Similar
+1,I am 423 years old,I am 423 years old,1.0,Duplicate
+2,I like to fight,I like music,0.5333333333333333,Similar
+3,I do not exist.,There is a reason why I exist.,0.33333333333333337,Dissimilar

@@ -1,0 +1,5 @@
+CRITICAL:root:we are in the main try loop
+DEBUG:root:entered into the first if statement
+CRITICAL:root:we are in the main try loop
+DEBUG:root:entered into the first if statement
+ERROR:root:you did not import URLLIB2 package/module <urlopen error [Errno 11001] getaddrinfo failed>
